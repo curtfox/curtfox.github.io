@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/transformer-interpolation
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-01
-venue: 'Proceedings of the National Academy of Sciences of the United States of America'
+venue: 'Arxiv'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2405.13718'
 citation: 'Madden, L; Fox, C; Thrampoulidis, C. “Upper and lower memory capacity bounds
