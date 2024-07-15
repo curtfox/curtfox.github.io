@@ -1,7 +1,7 @@
 ---
 title: "Study of the Edge of Stability in Deep Learning"
-collection: research
-permalink: /research/masters-thesis
+collection: publications
+permalink: /publications/masters-thesis
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-01-01
 venue: 'Master's Thesis'
