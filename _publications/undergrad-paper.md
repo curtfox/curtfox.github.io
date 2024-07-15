@@ -6,7 +6,7 @@ permalink: /publications/undergrad-paper
 date: 2020-01-01
 venue: 'Proceedings of the National Academy of Sciences of the United States of America'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.pnas.org/doi/abs/10.1073/pnas.2011795117'
+paperurl: 'https://www.pnas.org/doi/epdf/10.1073/pnas.2011795117'
 citation: 'Maslova, A; Ramirez, R; Ma, K; Schmutz, H; Wang, C; Fox, C; Ng, B; Benoist, C; Mostafavi, S; The Immunological Genome Project. Deep Learning of Immune Cell Differentiation. Proceedings of the National Academy of Sciences of the United States of America, 2020'
 ---
 
