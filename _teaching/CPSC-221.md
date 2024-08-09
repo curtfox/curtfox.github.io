@@ -8,6 +8,6 @@ date: 2017-01-01
 location: "Vancouver, Canada"
 ---
 
-##### CPSC 221 - Basic Algorithms and Data Structures
-
+CPSC 221 - Basic Algorithms and Data Structures
+======
 Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency.

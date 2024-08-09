@@ -8,6 +8,6 @@ date: 2015-01-01
 location: "Vancouver, Canada"
 ---
 
-##### CPSC 110 - Computation, Programs, and Programming
-
+CPSC 110 - Computation, Programs, and Programming
+======
 Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modelling, and interacting with the world.
