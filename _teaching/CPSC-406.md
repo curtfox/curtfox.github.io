@@ -7,6 +7,7 @@ venue: "Department of Computer Science, University of British Columbia"
 date: 2019-01-01
 location: "Vancouver, Canada"
 ---
-**CPSC 406 - Computational Optimization**
+
+##### CPSC 406 - Computational Optimization
 
 Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity.
