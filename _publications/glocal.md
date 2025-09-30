@@ -6,7 +6,7 @@ permalink: /publications/glocal
 date: 2025-01-01
 venue: 'Arxiv'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/pdf/2405.13718'
+paperurl: 'https://www.arxiv.org/pdf/2506.12648'
 citation: 'C. Fox, A. Mishkin, S. Vaswani, M. Schmidt. "Glocal Smoothness: Line Search can really help!". arXiv preprint arXiv:2506.12648, 2025'
 ---
 
