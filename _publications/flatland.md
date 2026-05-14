@@ -1,7 +1,7 @@
 ---
 title: "Flatland: The Adventures of Gradient Descent with Large Step Sizes"
 collection: publications
-permalink: /publications/glocal
+permalink: /publications/flatland
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-01-01
 venue: 'ICML'
